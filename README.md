@@ -74,12 +74,10 @@ systems, databases, containers, and AI-assisted development.
 <p align="center">
   <img
     src="./Orbit-logo.png"
-    width="200"
+    width="100"
     alt="Orbit Logo"
   />
 </p>
-
-<h2 align="center">Orbit</h2>
 
 <p align="center">
   <b>Habit Tracking & Journaling Application</b>
