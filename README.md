@@ -127,7 +127,7 @@ systems, databases, containers, and AI-assisted development.
 
 <p align="center">
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwindcss,nodejs,mongodb&titles=true"
+    src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,tailwindcss,nodejs,mongodb&titles=true"
     alt="Frontend and Backend Technologies"
   />
 </p>
